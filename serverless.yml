@@ -22,7 +22,7 @@ service: weight-watchers
 
 provider:
   name: aws
-  runtime: nodejs12.x
+  runtime: nodejs10
 
 # you can overwrite defaults here
 #  stage: dev
